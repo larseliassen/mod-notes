@@ -1,0 +1,25 @@
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.xml
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.deps.json
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.runtimeconfig.json
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.runtimeconfig.dev.json
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.dll
+/Users/lars/projects/ModNotes/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.pdb
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.csprojResolveAssemblyReference.cache
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.csproj.CoreCompileInputs.cache
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.AssemblyInfoInputs.cache
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.AssemblyInfo.cs
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.dll
+/Users/lars/projects/ModNotes/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.pdb
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.xml
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.deps.json
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.runtimeconfig.json
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.runtimeconfig.dev.json
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.dll
+/Users/lars/projects/ModNotes 2/ModNotes/bin/Debug/netcoreapp2.0/ModNotes.pdb
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.csprojResolveAssemblyReference.cache
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.csproj.CoreCompileInputs.cache
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.AssemblyInfoInputs.cache
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.AssemblyInfo.cs
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.dll
+/Users/lars/projects/ModNotes 2/ModNotes/obj/Debug/netcoreapp2.0/ModNotes.pdb
