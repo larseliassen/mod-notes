@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Net;
 using System.Net.Http;
 using ModNotes.DbModels;
 using Newtonsoft.Json;
@@ -13,7 +12,7 @@ namespace ModNotesClient
 
         public NotesClient(HttpClient httpclient)
         {
-            _client = httpclient;			
+            _client = httpclient;
         }
 
         public List<Note> GetNotes()
@@ -28,14 +27,14 @@ namespace ModNotesClient
             return notes;
         }
 
-        public Note GetNote(int id) 
+        public Note GetNote(int id)
         {
             HttpResponseMessage response = _client.GetAsync($"/api/notes/{id}").Result;
-			if (response.IsSuccessStatusCode)
-			{
-                return response.Content.ReadAsAsync<Note>().Result;				
-            } 
-            else 
+            if (response.IsSuccessStatusCode)
+            {
+                return response.Content.ReadAsAsync<Note>().Result;
+            }
+            else
             {
                 return null;
             }
