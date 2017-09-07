@@ -31,4 +31,24 @@
     <Compile Remove="DataStore.cs" />
     <Compile Remove="NotesClient.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\ModNotes\wwwroot\.DS_Store">
+      <Link>wwwroot\.DS_Store</Link>
+    </None>
+    <None Include="..\..\ModNotes\wwwroot\README.txt">
+      <Link>wwwroot\README.txt</Link>
+    </None>
+    <None Include="..\..\ModNotes\wwwroot\index.html">
+      <Link>wwwroot\index.html</Link>
+    </None>
+    <None Include="..\..\ModNotes\wwwroot\license.txt">
+      <Link>wwwroot\license.txt</Link>
+    </None>
+    <None Include="..\..\ModNotes\wwwroot\css\style.css">
+      <Link>wwwroot\css\style.css</Link>
+    </None>
+    <None Include="..\..\ModNotes\wwwroot\js\index.js">
+      <Link>wwwroot\js\index.js</Link>
+    </None>
+  </ItemGroup>
 </Project>
